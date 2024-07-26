@@ -1,7 +1,7 @@
 # Projeto
 
 ## O que é
-Projeto postado na plataforma __theforage__ a fim de colocar em prática conhecimentos em projetos da vida real
+Projeto postado na plataforma __Forage__ a fim de colocar em prática conhecimentos em projetos da vida real
 
 ## Fonte
 https://www.theforage.com/modules/gWbW5qHAChqQBGWpA/xgRwPeQ7mSeBWpbqJ
